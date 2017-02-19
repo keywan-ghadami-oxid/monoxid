@@ -4,3 +4,6 @@ Monoxid is a Oxid eSales plugin that provides logging functionally via the Monol
 ## Design Goals 
 
 - secure 
+- replaceable, psr3, 
+- configurable
+- best oxid logger
